@@ -1,0 +1,429 @@
+*{
+   max-width: 100%;
+   margin: 0px;
+   padding: 0px;
+}
+.nav-bar-fixed{
+  width: 100%;
+ position:fixed;
+ z-index: 99;
+}
+.sectoin-3{
+  display: flex;
+}
+#h1{
+  font-size: 25px;
+  font-weight: 500;
+}
+.nav-link p:hover{
+  color: aqua;
+}
+#btn-2{
+  width: 15px;
+  height: 15px;
+}
+#btn-2:hover{
+  background-color: black;
+}
+#cart-1{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-Smart_watches_421ea898-8d98-4344-a7ed-2425d6d3cb24_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-1:hover{
+   background-image: url();
+}
+#cart-2{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/zeb-Gaming_4ff2e3be-0c73-4973-b49d-d9b1ca23d529_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-2:hover{
+   background-image: url();
+}
+#cart-3{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-Earbuds_6675c93e-446d-48d6-89f9-9454f8e87648_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-3:hover{
+   background-image: url();
+}
+#cart-4{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-Soundbar_01a81495-f7ef-4bd2-a83b-6bdfe778cb5f_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-4:hover{
+   background-image: url();
+}
+#cart-5{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-Smart_Camera_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-5:hover{
+   background-image: url();
+}
+#cart-6{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-powerbank_93316f75-ba13-4765-ba10-1f8050ef93ac_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-6:hover{
+   background-image: url();
+}
+#cart-7{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-Kai-Trending-_products_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-7:hover{
+   background-image: url();
+}
+#cart-8{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-Headphone_fce33096-47b6-45ec-b374-fb0ed3542ef8_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-8:hover{
+   background-image: url();
+}
+#cart-9{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-PC_speaker_ae34509c-bf9f-49c4-9b3d-82d6ebd09df3_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-9:hover{
+   background-image: url();
+}
+#cart-10{
+  background-repeat: no-repeat;
+  height:100px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-keybord_f756b4ac-c720-42d8-809a-e7d93c8bf9c4_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart-10:hover{
+   background-image: url();
+}
+.section{
+  
+  width: 100px;
+  display: flex;
+}
+#h1-1{
+  padding-top: 33px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+}
+#cart2-1{
+  background-repeat: no-repeat;
+  width: 350px;
+  height:280px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-PC_speaker_ae34509c-bf9f-49c4-9b3d-82d6ebd09df3_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+#cart2-2{
+  background-repeat: no-repeat;
+  width: 350px;
+  height:560px;
+  background-color: rgb(84, 137, 216);
+  background-image: url("images/Zeb-PC_speaker_ae34509c-bf9f-49c4-9b3d-82d6ebd09df3_x200.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+.h6-1{
+  color: rgb(208, 197, 197);
+}
+.h6-2{
+  font-size: 15px;
+}
+.h6-2:hover{
+  color: rgb(37, 196, 196);
+}
+#card-1{
+  border: none;
+  background-image: url("images/zeb-GLC1500-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card-1:hover{
+  background-image: url("images/zeb-GLC1500-pic6_500x.jpg");
+}
+#card-2{
+  border: none;
+  background-image: url("images/zeb-maetal-pro-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card-2:hover{
+  background-image: url("images/zeb-maetal-pro-pic6_500x.jpg");
+}
+#card-3{
+  border: none;
+  background-image: url("images/Iconic-pic1_341x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card-3:hover{
+  background-image: url("images/Iconic-pic14_500x.jpg");
+}
+#card-4:hover{
+  background-image: url("images/Zeb-Earbuds_6675c93e-446d-48d6-89f9-9454f8e87648_x200.jpg");
+}
+#card-4{
+  border: none;
+  background-image: url("images/Zeb-Jumbo-pic3_249x.jpg");
+  height: 300px;
+  background-size: cover;
+}
+#card-4:hover{
+  background-image: url("images/Zeb-Jumbo-pic9_500x.jpg");
+}
+#card-5{
+  border: none;
+  background-image: url("images/ZEB-Jukebar3650pro-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card-5:hover{
+  background-image: url("images/ZEB-Jukebar3650pro-pic2_500x.jpg");
+}
+#card-6{
+  border: none;
+  background-image: url("images/ZEB-Sound-bomb-N2-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card-6:hover{
+  background-image: url("images/ZEB-Sound-bomb-N2-pic2_500x.jpg");
+}
+#card-7{
+  border: none;
+  background-image: url("images/Zeb-Companion-110-pic1_256x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card-7:hover{
+  background-image: url("images/Zeb-Companion-110-pic8_500x.jpg");
+}
+#card-8{
+  border: none;
+  background-image: url("images/ZEB-AC32FHD-LED_165hz_-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card-8:hover{
+  background-image: url("images/ZEB-AC32FHD-LED_165hz_-pic2_500x.jpg");
+}
+#card1-1{
+  border: none;
+  background-image: url("images/zeb-GLC1500-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card1-1:hover{
+  background-image: url("images/zeb-GLC1500-pic6_500x.jpg");
+}
+#card2-2{
+  border: none;
+  background-image: url("images/zeb-maetal-pro-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card2-2:hover{
+  background-image: url("images/zeb-maetal-pro-pic6_500x.jpg");
+}
+#card3-3{
+  border: none;
+  background-image: url("images/Iconic-pic1_341x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card3-3:hover{
+  background-image: url("images/Iconic-pic14_500x.jpg");
+}
+
+#card4-4{
+  border: none;
+  background-image: url("images/Zeb-Jumbo-pic3_249x.jpg");
+  height: 300px;
+  background-size: cover;
+}
+#card4-4:hover{
+  background-image: url("images/Zeb-Jumbo-pic9_500x.jpg");
+}
+#card5-5{
+  border: none;
+  background-image: url("images/ZEB-Jukebar3650pro-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card5-5:hover{
+  background-image: url("images/ZEB-Jukebar3650pro-pic2_500x.jpg");
+}
+#card6-6{
+  border: none;
+  background-image: url("images/ZEB-Sound-bomb-N2-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card6-6:hover{
+  background-image: url("images/ZEB-Sound-bomb-N2-pic2_500x.jpg");
+}
+#card7-7{
+  border: none;
+  background-image: url("images/Zeb-Companion-110-pic1_256x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card7-7:hover{
+  background-image: url("images/Zeb-Companion-110-pic8_500x.jpg");
+}
+#card8-8{
+  border: none;
+  background-image: url("images/ZEB-AC32FHD-LED_165hz_-pic1_231x.jpg");
+  height: 300px;
+  background-size: cover;
+  
+}
+#card8-8:hover{
+  background-image: url("images/ZEB-AC32FHD-LED_165hz_-pic2_500x.jpg");
+}
+#row-1{
+   row-gap:20px ;
+}
+#btn-1{
+  color: #fff;
+}
+#btn-1:hover{
+  background-color: yellow;
+  border: none;
+  color: black;
+}
+#h5-1{
+  font-size: 30px;
+}
+
+#card-div{
+  border: none;
+}
+#card-div:hover img{
+  transform: scale(1.1);
+}
+#card-div:hover h5{
+  color: aqua;
+}
+#follow:hover{
+  text-decoration: none;
+}
+#div-2{
+ background-image: url("images/img-2.webp"); 
+ 
+ background-size: cover;
+ border: none;
+ 
+}
+#img-1{
+  
+  background-image: url("images/images-1.jpg");
+  background-size: cover;
+}
+#img-1:hover{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.418),rgba(0, 0, 0, 0.458)),url("images/images-1.jpg");
+  
+}
+#img-2{
+  
+  background-image: url("images/image-2.jpg");
+  background-size: cover;
+}
+#img-2:hover{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.418),rgba(0, 0, 0, 0.458)),url("images/image-2.jpg");
+}
+#img-3{
+  
+  background-image: url("images/image-3.jpg");
+  background-size: cover;
+}
+#img-3:hover{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.418),rgba(0, 0, 0, 0.458)),url("images/image-3.jpg");
+}
+#img-4{
+  
+  background-image: url("images/image-4.jpg");
+  background-size: cover;
+}
+#img-4:hover{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.418),rgba(0, 0, 0, 0.458)),url("images/image-4.jpg");
+}
+#a{
+  color: black;
+  text-decoration: none;
+}
+#a:hover{
+  color: rgb(56, 144, 238);
+}
+#footer-div a{
+ text-decoration: none;
+}
+#footer-div a:hover{
+  text-decoration:underline ;
+}
+#p1 i:hover{
+color: rgb(7, 7, 9)
+}
+#input-1{
+  width: 80%;
+  border: none;
+  font-size: 40px;
+  font-weight: 400;
+}
+#input-1:hover{
+  border: none; 
+}
